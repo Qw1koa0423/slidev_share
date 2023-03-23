@@ -1,0 +1,10 @@
+.slidev-vclick-target {
+  display: block;
+}
+
+.slidev-vclick-hidden {
+  display: none;
+}
+div::-webkit-scrollbar {
+  width: 0 !important;
+}
