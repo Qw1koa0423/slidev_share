@@ -5,7 +5,7 @@
     "build": "slidev build",
     "dev": "slidev --open",
     "export": "slidev export",
-    "deploy": "npm run build &&  cp -r dist/* ../dist"
+    "deploy": "npm run build"
   },
   "dependencies": {
     "@slidev/cli": "^0.40.3",
